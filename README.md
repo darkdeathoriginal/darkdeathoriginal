@@ -44,10 +44,9 @@ I am a passionate software engineer focused on building scalable web application
 ---
 
 ### 📊 Vital Statistics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkdeathoriginal&show_icons=true&theme=tokyonight&count_private=true" alt="Anwin's Stats" />
+  <img src="https://github-readme-stats-nu-black-83.vercel.app/api?username=darkdeathoriginal&show_icons=true&theme=tokyonight&count_private=true" alt="Anwin's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdeathoriginal&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-nu-black-83.vercel.app/api/top-langs/?username=darkdeathoriginal&layout=compact&theme=tokyonight&hide=html,css&count_private=true" alt="Top Languages" />
 </p>
 
