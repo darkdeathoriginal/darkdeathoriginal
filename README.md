@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (Fixed URL Encoding) -->
+  <!-- Dynamic Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=180&section=header&text=Anwin%20Sharon&fontSize=42&fontColor=7aa2f7&animation=fadeIn&fontAlignY=45&desc=Full-stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast%20%E2%80%A2%20Open%20Source&descAlignY=65&descSize=18" width="100%" alt="Header" />
 
   <!-- Animated Typing Tagline -->
@@ -173,7 +173,7 @@ Passions: Distributed systems, automation bots & developer tooling
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeathoriginal&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakNum=7aa2f7" alt="GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=darkdeathoriginal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </div>
 
 ---
